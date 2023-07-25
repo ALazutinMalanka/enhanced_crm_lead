@@ -7,6 +7,6 @@
         'sale'
     ],
     'data': [
-
+        'views/crm_lead_inherited_view.xml'
     ],
 }
